@@ -1,1 +1,34 @@
 /posters/*
+/posters/*
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables / secrets
+.env
+
+# Uploaded/generated files
+uploads/
+outputs/
+
+# Node.js
+node_modules/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Hugging Face / model cache
+.cache/
+huggingface/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
