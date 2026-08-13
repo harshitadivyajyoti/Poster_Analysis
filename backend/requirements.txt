@@ -1,0 +1,13 @@
+flask
+flask-cors
+werkzeug
+torch
+torchvision
+opencv-contrib-python
+scikit-image
+scikit-learn
+numpy
+pandas
+pillow
+pytesseract
+gunicorn
